@@ -1,0 +1,40 @@
+
+Init Polynomial a
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Number of terms = 4:(3, 4) (4, 3) (2, 1) (1, 0) 
+
+Init Polynomial b
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Number of terms = 4:(4, 5) (3, 2) (2, 1) (1, 0) 
+c = a + b
+Number of terms = 6:(4, 5) (3, 4) (4, 3) (3, 2) (4, 1) (2, 0) 
+d = a - b
+Number of terms = 4:(-4, 5) (3, 4) (4, 3) (-3, 2) 
+Continue (y/n) 
+
+Init Polynomial a
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Number of terms = 3:(3, 3) (2, 1) (1, 0) 
+
+Init Polynomial b
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Enter a term (coef, exp)
+Number of terms = 3:(3, 3) (2, 1) (1, 0) 
+c = a + b
+Number of terms = 3:(6, 3) (4, 1) (2, 0) 
+d = a - b
+Number of terms = 0:
+Continue (y/n) 
